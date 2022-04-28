@@ -49,5 +49,5 @@
 
 
 [bhff]: https://www.bhfuturesfoundation.org/
-[instagram]: ttps://www.instagram.com/a.muaamer/
-[linkedin]: www.linkedin.com/in/muamer-alickovic
+[instagram]: https://www.instagram.com/a.muaamer/
+[linkedin]: https://www.linkedin.com/in/muamer-alickovic

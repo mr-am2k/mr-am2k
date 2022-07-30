@@ -22,9 +22,9 @@
 
 <img align="left" alt=".NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
 
-<img align="left" alt="C++" width="26px" src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 
-<img align="left" alt="C#" width="26px" src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://play-lh.googleusercontent.com/FSEp7SDYWWcgdJDy1CkYD9Cb7X7TAkUUZH_-3vJ5O4xN0gtt3Iv1EmhXQXKWm5V74WE)" />
+<img align="left" alt="C#" width="26px" src="https://logojinni.com/image/logos/c--4.svg" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 

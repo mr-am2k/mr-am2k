@@ -52,4 +52,4 @@
 [bhff]: https://www.bhfuturesfoundation.org/
 [instagram]: https://www.instagram.com/a.muaamer/
 [linkedin]: https://www.linkedin.com/in/muamer-alickovic
-[am2k]: www.muameralickovic.netlify.app
+[am2k]: https://www.muameralickovic.netlify.app

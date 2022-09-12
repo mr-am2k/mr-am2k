@@ -5,6 +5,7 @@
 
 - 💻 2nd year Software Engineering student at Polytechnic Faculty in Zenica
 - 🇧🇦 Senior Scholar & Volunteer at : [BH Futures Foundation][bhff] 
+- Personal website: muameralickovic.netlify.app
 
 
 

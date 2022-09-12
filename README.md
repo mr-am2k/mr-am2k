@@ -5,7 +5,7 @@
 
 - 💻 2nd year Software Engineering student at Polytechnic Faculty in Zenica
 - 🇧🇦 Senior Scholar & Volunteer at : [BH Futures Foundation][bhff] 
-- Personal website: [Muamer Alickovic][am2k]
+
 
 
 
@@ -52,4 +52,3 @@
 [bhff]: https://www.bhfuturesfoundation.org/
 [instagram]: https://www.instagram.com/a.muaamer/
 [linkedin]: https://www.linkedin.com/in/muamer-alickovic
-[am2k]: https://www.muameralickovic.netlify.app
